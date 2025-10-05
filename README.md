@@ -16,6 +16,15 @@ https://github.com/BMugesh/sunny-cosmic-tales.git
 
 https://github.com/BMugesh/aurora-cosmos-tales.git
 
+# Website Link
+https://nasa-space-app-kohl.vercel.app/
+
+https://preview--sunny-story-weaver.lovable.app/
+
+https://preview--aurora-cosmos-tales.lovable.app/
+
+https://comic-stories.vercel.app/
+
 
 # Technology Stack
 ## Frontend: 
@@ -43,14 +52,7 @@ The choice-based format actively engages users, leading to better understanding 
 Scientifically Grounded: Each story is built on the fundamental principles of heliophysics and space weather as studied by NASA, ensuring an educational foundation.
 Broad Appeal: The variety of stories and perspectives appeals to different learning styles and interests, making it an ideal tool for classrooms, families, and curious minds of any age.
 
-# Website Link
-https://nasa-space-app-kohl.vercel.app/
 
-https://preview--sunny-story-weaver.lovable.app/
-
-https://preview--aurora-cosmos-tales.lovable.app/
-
-https://comic-stories.vercel.app/
 
 # PPT Link
 https://www.canva.com/design/DAG07CfE87o/mQ9isva9X_tf1BhXi-imxw/view?utm_content=DAG07CfE87o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3af8fc44b7
