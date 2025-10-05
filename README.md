@@ -28,6 +28,8 @@ https://preview--aurora-cosmos-tales.lovable.app/
 
 https://comic-stories.vercel.app/
 
+# Link
+https://drive.google.com/drive/folders/1mxIH1K8nMKpBnZEeVeOE0nlaH4w_vf8r?usp=drive_link
 
 # Technology Stack
 ## Frontend: 
