@@ -1,4 +1,7 @@
+# TEAM NOVAH
+
 # Project Title: Stellar Stories: Space Weather Through the Eyes of Earthlings
+
 # Project Description
 Stellar Stories is an interactive educational web application designed to make the complex science of space weather accessible and exciting for a global audience. Our project uses a unique dual-perspective approach to storytelling. Users can experience the universe through the eyes of cosmic phenomena themselves—like Cammie the CME or Sunny the Solar Flare—to understand their journey. Simultaneously, other stories are told from the perspective of Earthlings, showing how these cosmic events tangibly affect our lives and technology. This method makes the science of heliophysics both imaginative and deeply relatable.
 
