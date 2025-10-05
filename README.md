@@ -7,6 +7,11 @@ Our solution is a web platform that offers a diverse library of "choose-your-own
 
 This narrative core is powered by a flexible JSON engine and brought to life with beautiful Lottie animations for each chapter. The entire experience is wrapped in a polished, game-like interface with 3D and parallax effects, transforming complex scientific concepts from NASA into a memorable and fun adventure.
 
+# Github Link
+https://github.com/BMugesh/sunny-cosmic-tales.git
+https://github.com/BMugesh/aurora-cosmos-tales.git
+https://github.com/kruthikaEEE/comic-stories.git
+
 # Technology Stack
 ## Frontend: 
   A modern Single Page Application (SPA) built with React and Vite.
