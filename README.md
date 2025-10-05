@@ -28,6 +28,10 @@ This narrative core is powered by a flexible JSON engine and brought to life wit
 # Key Advantages
 ### Dual-Perspective Storytelling: 
 By telling stories from both a cosmic and a human viewpoint, we make the science both fantastical and personally relevant.
+### Interactive Learning: 
+The choice-based format actively engages users, leading to better understanding and knowledge retention than passive learning.
+Scientifically Grounded: Each story is built on the fundamental principles of heliophysics and space weather as studied by NASA, ensuring an educational foundation.
+Broad Appeal: The variety of stories and perspectives appeals to different learning styles and interests, making it an ideal tool for classrooms, families, and curious minds of any age.
 
 # Website Link
 https://nasa-space-app-kohl.vercel.app/
@@ -38,8 +42,8 @@ https://preview--aurora-cosmos-tales.lovable.app/
 
 https://comic-stories.vercel.app/
 
+# PPT Link
+https://www.canva.com/design/DAG07CfE87o/mQ9isva9X_tf1BhXi-imxw/view?utm_content=DAG07CfE87o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3af8fc44b7
 
-### Interactive Learning: 
-The choice-based format actively engages users, leading to better understanding and knowledge retention than passive learning.
-Scientifically Grounded: Each story is built on the fundamental principles of heliophysics and space weather as studied by NASA, ensuring an educational foundation.
-Broad Appeal: The variety of stories and perspectives appeals to different learning styles and interests, making it an ideal tool for classrooms, families, and curious minds of any age.
+
+
